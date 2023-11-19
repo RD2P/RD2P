@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 👨‍💻 All of my projects are available at [https://rd2p.github.io/](https://rd2p.github.io/)
+- 👨‍💻 All of my projects are available at [raphaeldelosreyes.com](https://raphaeldelosreyes.com)
 
 - 📫 How to reach me **graphael.dr@gmail.com**
 
