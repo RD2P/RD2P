@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 
-- 🔭 I’m currently working on [HexNote](https://github.com/RD2P/HexNote) and [ValiantFoxSoul](https://valiantfoxsoul.com/)
-
 - 🌱 I’m currently learning **Databases**
 
 - 👨‍💻 All of my projects are available at [raphaeldelosreyes.com](https://raphaeldelosreyes.com)
