@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 
-- 🌱 I’m currently learning **Databases**
-
-- 👨‍💻 All of my projects are available at [raphaeldelosreyes.com](https://raphaeldelosreyes.com)
-
 - 📫 How to reach me **graphael.dr@gmail.com**
   
 - <a href="https://linkedin.com/in/glennraphaeldlr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raphael De Los Reyes LinkedIn" height="30" width="40" /></a>
