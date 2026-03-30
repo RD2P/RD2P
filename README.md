@@ -2,10 +2,6 @@
 
 - Computer Science @ University of Saskatchewan
 - Interested in low-level programming, operating systems, and cybersecurity
-
-<h2>Socials</h2>
-<a href="https://linkedin.com/in/glennraphaeldlr" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue"></a>
-
 <br/>
 
 <div>
