@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 
 - Computer Science Honours Software Engineering @ University of Saskatchewan
-- Interested in machine learning, operating systems, and cybersecurity
+- Interested in systems programming, cybersecurity, and agentic frameworks
 <br/>
 
 <div>
