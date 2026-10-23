@@ -2,6 +2,7 @@
 
 - Computer Science Honours Software Engineering @ University of Saskatchewan
 - Interested in systems programming, cybersecurity, and agentic frameworks
+- https://rd2p.github.io/
 <br/>
 
 <div>
