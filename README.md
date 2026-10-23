@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael</h1>
+<h1 align="center">Hi, I'm Raphael</h1>
 
 - Computer Science Honours Software Engineering @ University of Saskatchewan
 - Interested in systems programming, cybersecurity, and agentic frameworks
